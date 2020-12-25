@@ -2,7 +2,7 @@
 
 FRIENDS 감정 데이터 분류
 
-1. 본인의 컴퓨터 혹은 구글 Colab 라이브러리를 DATA PATH로 잡아준다. PATH에 미리 
+1. 본인의 컴퓨터 혹은 구글 Colab 라이브러리를 DATA PATH로 잡아준다. PATH에 미리 필요한 파일을 저장해놓는다.(
 
 ```
 from google.colab import drive 
